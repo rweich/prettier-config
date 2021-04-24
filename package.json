@@ -1,0 +1,50 @@
+{
+  "name": "@rweich/prettier-config",
+  "version": "0.0.0-development",
+  "description": "prettier config for my projects",
+  "author": "rweich",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "prepare": "husky install"
+  },
+  "dependencies": {
+    "import-sort-style-eslint": "^6.0.0",
+    "prettier": "npm:@btmills/prettier",
+    "prettier-plugin-import-sort": "^0.0.6"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^12.1.1",
+    "@commitlint/config-conventional": "^12.1.1",
+    "@rweich/semantic-release-config": "^1.0.0",
+    "husky": "^6.0.0",
+    "semantic-release": "^17.4.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rweich/prettier-config.git"
+  },
+  "files": [
+    "README.md",
+    "index.js"
+  ],
+  "keywords": [
+    "prettier",
+    "prettier-config",
+    "coding",
+    "rules",
+    "style"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "commitlint": {
+    "extends": [
+      "@commitlint/config-conventional"
+    ]
+  },
+  "release": {
+    "extends": "@rweich/semantic-release-config",
+    "branches": "main"
+  }
+}
