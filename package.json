@@ -1,6 +1,6 @@
 {
   "name": "@rweich/prettier-config",
-  "version": "0.0.0-development",
+  "version": "1.0.0",
   "description": "prettier config for my projects",
   "author": "rweich",
   "license": "MIT",
