@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+### [1.0.4](https://github.com/rweich/prettier-config/compare/v1.0.3...v1.0.4) (2021-09-15)
+
+
+### Miscellaneous Chores
+
+* update dependencies ([6100947](https://github.com/rweich/prettier-config/commit/61009471dcb6400b377562a7ae81d6d7855f4a9c))
+
 ### [1.0.3](https://github.com/rweich/prettier-config/compare/v1.0.2...v1.0.3) (2021-09-01)
 
 
