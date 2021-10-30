@@ -9,21 +9,19 @@
     "prepare": "husky install"
   },
   "dependencies": {
-    "import-sort-style-eslint": "^6.0.0",
-    "prettier": "npm:@btmills/prettier",
-    "prettier-plugin-import-sort": "^0.0.6"
+    "prettier": "npm:@btmills/prettier"
   },
   "devDependencies": {
-    "@commitlint/cli": "^12.1.1",
-    "@commitlint/config-conventional": "^12.1.1",
-    "@rweich/semantic-release-config": "^1.0.0",
-    "husky": "^6.0.0",
-    "semantic-release": "^17.4.2"
+    "@commitlint/cli": "^13.2.1",
+    "@commitlint/config-conventional": "^13.2.0",
+    "@rweich/semantic-release-config": "^2.0.0",
+    "husky": "^7.0.4",
+    "semantic-release": "^18.0.0"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/rweich/prettier-config.git"
+  "engines": {
+    "node": ">=14.17"
   },
+  "repository": "rweich/prettier-config",
   "files": [
     "README.md",
     "index.js"
