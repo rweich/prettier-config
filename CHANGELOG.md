@@ -3,6 +3,28 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.0.0](https://github.com/rweich/prettier-config/compare/v1.0.4...v2.0.0) (2022-01-20)
+
+
+### ⚠ BREAKING CHANGES
+
+* remove node v15 as it's not supported anymore
+* the minimum required version of node is now v14.17
+
+### Features
+
+* remove import-sort plugin ([29929dc](https://github.com/rweich/prettier-config/commit/29929dc2f213cffcf79010f3ecf329df89e0249b))
+
+
+### Miscellaneous Chores
+
+* update dependencies (major) ([1605f1d](https://github.com/rweich/prettier-config/commit/1605f1d9cadadfc0f79105ef16c5aacd45938b6c))
+
+
+### Continuous Integration
+
+* update ci workflow ([781cc99](https://github.com/rweich/prettier-config/commit/781cc991d0e34c340cb50c8e7692b766a2f5bca3))
+
 ### [1.0.4](https://github.com/rweich/prettier-config/compare/v1.0.3...v1.0.4) (2021-09-15)
 
 
