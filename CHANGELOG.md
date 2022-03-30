@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+### [2.0.1](https://github.com/rweich/prettier-config/compare/v2.0.0...v2.0.1) (2022-03-30)
+
+
+### Miscellaneous Chores
+
+* **deps:** bump minimist from 1.2.5 to 1.2.6 ([4f2595d](https://github.com/rweich/prettier-config/commit/4f2595da0c34c5b16f7c39c65cda2dc6bfc4c30b))
+
 ## [2.0.0](https://github.com/rweich/prettier-config/compare/v1.0.4...v2.0.0) (2022-01-20)
 
 
