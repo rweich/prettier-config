@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+### [2.0.2](https://github.com/rweich/prettier-config/compare/v2.0.1...v2.0.2) (2022-06-04)
+
+
+### Miscellaneous Chores
+
+* **deps:** bump npm from 8.3.1 to 8.12.0 ([74e193b](https://github.com/rweich/prettier-config/commit/74e193bd6ccfc931be899d5e7244a4154c1c30bd))
+* **deps:** bump semver-regex from 3.1.3 to 3.1.4 ([4b7a5e9](https://github.com/rweich/prettier-config/commit/4b7a5e97a511032c92008feb0e0e7fd18db3ea24))
+
 ### [2.0.1](https://github.com/rweich/prettier-config/compare/v2.0.0...v2.0.1) (2022-03-30)
 
 
