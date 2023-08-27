@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.0.4](https://github.com/rweich/prettier-config/compare/v2.0.3...v2.0.4) (2023-08-27)
+
+
+### Miscellaneous Chores
+
+* **deps:** bump actions/checkout from 3.5.3 to 3.6.0 ([95b09b5](https://github.com/rweich/prettier-config/commit/95b09b5666643d3a9641abb4c3ab81a439592aed))
+* **deps:** bump step-security/harden-runner from 2.0.0 to 2.5.1 ([1312f73](https://github.com/rweich/prettier-config/commit/1312f7316be81daab76ec88b8ebeb4124757f709))
+* set executable flag to githook ([76aeb82](https://github.com/rweich/prettier-config/commit/76aeb82ce3cea2ca1cf9066a85bec1f6619b74b5))
+* update dependencies ([88bc4b1](https://github.com/rweich/prettier-config/commit/88bc4b1c3e2cbea01648ca6f14748b21fc8474ee))
+* update dependencies ([2d55f52](https://github.com/rweich/prettier-config/commit/2d55f522f4bf66e2ebdb4cbd6b271dd81fad11af))
+
 ### [2.0.3](https://github.com/rweich/prettier-config/compare/v2.0.2...v2.0.3) (2022-06-10)
 
 
