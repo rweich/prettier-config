@@ -12,14 +12,14 @@
     "prettier": "npm:@btmills/prettier"
   },
   "devDependencies": {
-    "@commitlint/cli": "^17.4.2",
-    "@commitlint/config-conventional": "^17.4.2",
-    "@rweich/semantic-release-config": "^2.0.6",
+    "@commitlint/cli": "^18.4.1",
+    "@commitlint/config-conventional": "^18.4.0",
+    "@rweich/semantic-release-config": "^3.0.0",
     "husky": "^8.0.3",
-    "semantic-release": "^19.0.2"
+    "semantic-release": "^22.0.7"
   },
   "engines": {
-    "node": ">=14.17"
+    "node": ">=18.17"
   },
   "repository": "rweich/prettier-config",
   "files": [
