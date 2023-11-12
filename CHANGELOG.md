@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.0.0](https://github.com/rweich/prettier-config/compare/v2.0.4...v3.0.0) (2023-11-12)
+
+
+### ⚠ BREAKING CHANGES
+
+* remove support for node < 18.17
+
+### Miscellaneous Chores
+
+* **deps:** bump actions/checkout from 3.6.0 to 4.0.0 ([8a292b2](https://github.com/rweich/prettier-config/commit/8a292b22b01f082082e00ca2c1e40471c73d8cfd))
+* **deps:** bump actions/checkout from 4.0.0 to 4.1.0 ([b9c3eba](https://github.com/rweich/prettier-config/commit/b9c3eba79caea43a2c26039fbc5a554baf889a1b))
+* **deps:** bump actions/checkout from 4.1.0 to 4.1.1 ([35b368c](https://github.com/rweich/prettier-config/commit/35b368c52f1e48e2017105f2df0bbf47617ccd52))
+* **deps:** bump cycjimmy/semantic-release-action from 3.4.2 to 4.0.0 ([756330b](https://github.com/rweich/prettier-config/commit/756330b30517de8f53aae6f173e1d33d32484bff))
+* **deps:** bump step-security/harden-runner from 2.5.1 to 2.6.0 ([930d717](https://github.com/rweich/prettier-config/commit/930d717af57d78ede9c3e15a721e2ff7beabbe48))
+* update dependencies ([9867430](https://github.com/rweich/prettier-config/commit/9867430a7892c6d7a3b98ee019ce82213e3bd8d1))
+
 ## [2.0.4](https://github.com/rweich/prettier-config/compare/v2.0.3...v2.0.4) (2023-08-27)
 
 
